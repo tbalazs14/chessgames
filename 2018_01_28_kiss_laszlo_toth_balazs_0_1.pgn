@@ -1,0 +1,25 @@
+[Event "Pest Megyei Csapatbajnokság 1/A Szigetszentmárton - Visegrád"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2018.01.28"]
+[Round "7"]
+[White "Kiss László"]
+[Black "Tóth Balázs"]
+[Result "0-1"]
+[BlackElo "1986"]
+[ECO "D43"]
+[Opening "Semi-Slav"]
+[Time "10:00:00"]
+[Variation "Moscow, 7.e3"]
+[WhiteElo "1927"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "58"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. d4 Nf6 2. c4 e6 3. Bg5 h6 4. Bxf6 Qxf6 5. Nf3 d5 6. Nc3 c6 7. e3 Bd6 8.
+c5 Bc7 9. e4 dxe4 10. Nxe4 Qe7 11. b4 O-O 12. Bc4 e5 13. d5 cxd5 14. Bxd5
+Nc6 15. a3 Be6 16. Bxe6 Qxe6 17. O-O Rad8 18. Qc2 f5 19. Ned2 e4 20. Ne1
+Qe5 21. Qc4+ Kh8 22. Nef3 exf3 23. Nxf3 Qf4 24. Qxf4 Bxf4 25. g3 Bc7 26.
+Kg2 Nd4 27. Ng1 f4 28. f3 Nc2 29. Ra2 Ne3+ 0-1
+

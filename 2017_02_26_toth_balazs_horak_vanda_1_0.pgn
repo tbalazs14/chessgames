@@ -1,0 +1,28 @@
+[Event "Pest megyei csapatbajnokság 1/A"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2017.02.26"]
+[Round "?"]
+[White "Tóth Balázs"]
+[Black "Horák Vanda"]
+[Result "1-0"]
+[BlackElo "1461"]
+[ECO "C30"]
+[Opening "King's Gambit"]
+[Time "10:00:00"]
+[Variation "2...d6 3.Nf3"]
+[WhiteElo "1935"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "93"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 e5 2. f4 d6 3. Nf3 f6 4. Bc4 Bg4 5. h3 Bxf3 6. Qxf3 Nc6 7. c3 Nge7 8.
+d3 g6 9. fxe5 f5 10. exd6 cxd6 11. d4 Qc7 12. Be6 Bg7 13. Be3 Rf8 14. Nd2
+Rf6 15. Bb3 f4 16. Bxf4 Bh6 17. g3 Qd7 18. Qe3 Bxf4 19. gxf4 O-O-O 20. d5
+Na5 21. Bc2 b6 22. O-O-O Qb5 23. Bd3 Qa4 24. Kb1 Re8 25. c4 Ref8 26. b3 Qb4
+27. Rhf1 Nb7 28. e5 dxe5 29. fxe5 Rxf1 30. Rxf1 Rxf1+ 31. Bxf1 Nf5 32. Qf4
+Qc3 33. Ne4 Qe1+ 34. Kb2 Qd1 35. Nc3 Qe1 36. Be2 Qh1 37. Bg4 Qg2+ 38. Kc1
+Nc5 39. Bxf5+ gxf5 40. Qxf5+ Kb7 41. Qxh7+ Ka6 42. b4 Qf1+ 43. Kb2 Nd3+ 44.
+Kb3 Nc1+ 45. Ka3 Qxc4 46. b5+ Ka5 47. Qxa7# 1-0
+

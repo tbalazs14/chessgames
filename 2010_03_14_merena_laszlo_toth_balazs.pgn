@@ -1,0 +1,30 @@
+[Event "Megyei"]
+[Site "?"]
+[Date "2010.03.14"]
+[Round "?"]
+[White "Merena László"]
+[Black "Tóth Balázs"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Time "22:54:37"]
+[Variation "La Bourdonnais Variation, 1.e4 e6 2.f4"]
+[WhiteElo "1956"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "87"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 e6 2. f4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. d3 Nge7 7. Be3 Nf5 8.
+Bf2 h5 9. Nbd2 b5 10. Be2 Be7 11. Nf1 b4 12. Ne3 Nxe3 13. Bxe3 bxc3 14.
+bxc3 Qa5 15. Bd2 Rb8 16. Qc2 O-O 17. O-O c4 (17. .. g6 18. Rfb1 Qc7) 18.
+dxc4 dxc4 (18. .. Qc5+ 19. Kh1 dxc4 20. h3 g6) 19. Rfb1 Rb6 20. Kf1 Qd5
+(20. .. Rfb8) 21. Be3 Bc5 (21. .. Rxb1+ 22. Rxb1 Nb8) 22. Ng5 g6 23. Bf3
+Bxe3 24. Bxd5 exd5 25. Rxb6 axb6 26. g3 Bf5 27. Qg2 Bd3+ 28. Ke1 Ne7 (28.
+.. Nxe5 29. fxe5 Bxg5 30. Qxd5 Rd8 31. Qb5 h4 32. Rd1 Kg7) 29. Rd1 Bf5 (29.
+.. Ra8) 30. h3 h4 31. g4 Bd7 32. Qe2 Bxf4 33. Nf3 Ra8 34. Rd4 Bg3+ 35. Kd1
+Ba4+ (35. .. Be6 36. Ng5 Nc6 37. Nxe6 fxe6 38. Rd2 Nxe5 39. Qe3) 36. Kc1
+Bc6 37. Kb2 b5 38. Qe3 Kg7 39. Qg5 Ng8 40. Nxh4 Bf2 41. Rf4 Bc5 42. Rxf7+
+Kxf7 43. Qxg6+ Kf8 44. Qxc6 1-0
+

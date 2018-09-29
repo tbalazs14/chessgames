@@ -1,0 +1,37 @@
+[Event "NBII Tóth László csoport"]
+[Site "?"]
+[Date "2010.09.26"]
+[Round "?"]
+[White "Egyed Zsolt"]
+[Black "Tóth Balázs"]
+[Result "*"]
+[BlackElo "1830"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Time "07:14:24"]
+[Variation "2...Qxd5 3.Nc3 Qa5 4.Bc4 Nf6"]
+[WhiteElo "2083"]
+[TimeControl "300"]
+[Termination "unterminated"]
+[PlyCount "65"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Bc4 Nf6 5. d3 c6 6. Ne2 Bf5 7. Bd2 Nbd7
+8. Nd4 Qe5+ 9. Nde2 Qa5 10. O-O e6 11. Nd4 Bg4 12. Qe1 Qe5 13. Be3 g5 (13.
+.. Bc5 14. f4 Qd6 15. Qf2 O-O 16. h3 Bf5 17. a3 (17. Nxf5 exf5 18. Bxc5
+Nxc5 19. b4 Ne6 20. a3 Rfe8)) (13. .. Bd6 14. f4 Qh5 15. h3 Bf5 16. Nxf5
+Qxf5 17. g4 Nxg4 18. hxg4 Qxg4+ 19. Kh2) 14. Nde2 Bd6 15. Ng3 h5 16. d4 Qa5
+17. Nb5 Bb4 18. Nc7+ Qxc7 19. Qxb4 h4 20. Ne2 h3 21. g3 c5 (21. .. a5 22.
+Qe1 Rg8 23. f3 Bf5 24. Nc3 Nb6 25. b3 O-O-O) 22. dxc5 Ne5 (22. .. Bxe2 23.
+Bxe2 Qc6 24. f3 Nd5 25. Qd4 e5 26. Qd2 Nxe3 27. Qxe3 Qxc5 28. Qxc5 Nxc5 29.
+Rad1 Rd8 30. Rxd8+ Kxd8 31. Rd1+ Ke7) 23. Bb5+ Kf8 24. Nd4 Rd8 (24. .. Nd5
+25. Qa3 a6 26. f3 axb5 27. Qxa8+ Kg7 28. Nxb5 Qc6 (28. .. Rxa8 29. Nxc7
+Nxc7 30. Bd4 f6 31. Bxe5 fxe5 32. fxg4 Ra4 33. b3 Rxg4 34. Rae1 Rd4 35.
+Rxe5 Kg6) 29. Qa3 Nxe3 30. Qxe3 Nxf3+ 31. Rxf3 Bxf3 32. Qxg5+ Kh7 33. Nd4
+Qe4 34. Qf4 Qxf4 35. gxf4 Bd5) 25. f3 Nd5 26. Qe1 Nxe3 (26. .. Bf5 27. Bxg5
+f6 28. Be3 b6 29. b4 bxc5 30. Nxf5 exf5 31. Bxc5+ Kg7) 27. Qxe3 Bh5 28.
+Rad1 Rd5 29. b4 g4 30. c4 Rxd4 (30. .. Rd8 31. Qg5 Rb8 32. fxg4 Bxg4 33.
+Rde1 Rg8 34. Qxg4 Rxg4 35. Nxe6+ Kg8 36. Nxc7 Rg5) 31. Rxd4 gxf3 32. Qg5
+Bg6 33. Qf6 *
+

@@ -1,0 +1,25 @@
+[Event "Pest megyei csapatbajnokság 1/A Gödöllõ - Visegrád"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2016.02.28"]
+[Round "6"]
+[White "Tóth Balázs"]
+[Black "Dr. Tallós Emil"]
+[Result "1-0"]
+[BlackElo "1828"]
+[ECO "C06"]
+[Opening "French"]
+[Time "10:00:00"]
+[Variation "Tarrasch, Closed, 8...f6 9.exf6, 11...Qb6"]
+[WhiteElo "1959"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "53"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8.
+cxd4 Qb6 9. Nf3 f6 10. exf6 Nxf6 11. O-O Bd6 12. Bf4 Bxf4 13. Nxf4 O-O 14.
+b3 Ne4 15. g3 Bd7 16. Re1 g5 17. Bxe4 dxe4 18. Nxg5 Qxd4 19. Qh5 Qg7 20.
+Ngxe6 Bxe6 21. Nxe6 Qf7 22. Qg5+ Kh8 23. Nxf8 Rxf8 24. Rf1 Qf3 25. Qe3 Qf5
+26. f4 exf3 27. Rae1 1-0
+

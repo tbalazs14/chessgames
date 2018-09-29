@@ -1,0 +1,26 @@
+[Event "Jász-Nagykun-Szolnok megyei csapatbajnokság"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2016.04.24."]
+[Round "7"]
+[White "Deák Lajos"]
+[Black "Tóth Balázs"]
+[Result "0-1"]
+[BlackElo "1939"]
+[ECO "D02"]
+[Opening "Queen's Pawn"]
+[Time "09:00:00"]
+[Variation "3.g3 g6"]
+[WhiteElo "1841"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "64"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. Nf3 Nf6 2. d4 d5 3. g3 g6 4. Bg2 Bg7 5. c3 O-O 6. O-O c6 7. Bg5 Nbd7 8.
+Qc1 Re8 9. Bh6 Bh8 10. Nbd2 e5 11. dxe5 Nxe5 12. Nxe5 Rxe5 13. e3 Re8 14.
+Nf3 Ne4 15. Nd2 Bf5 16. Nxe4 Bxe4 17. f3 Bf5 18. Qd2 Qb6 19. g4 Be6 20. h4
+Rad8 21. Qf2 c5 22. Kh1 d4 23. cxd4 cxd4 24. e4 d3 25. Qxb6 axb6 26. Be3
+Bxb2 27. Rab1 Bd4 28. Bxd4 Rxd4 29. Rxb6 d2 30. Rd1 Rc8 31. Bf1 Rc1 32. Rb1
+Rxb1 0-1
+

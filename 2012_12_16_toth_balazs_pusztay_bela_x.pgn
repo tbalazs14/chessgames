@@ -1,0 +1,28 @@
+[Event "Jász-Nagykun-Szolnok megyei csapatbajnokság Szolnok - Jászberény"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2017.08.06"]
+[Round "?"]
+[White "Tóth Balázs"]
+[Black "Pusztay Béla"]
+[Result "1/2-1/2"]
+[BlackElo "2086"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Time "09:21:43"]
+[Variation "Advance, 4.Bd3"]
+[WhiteElo "1982"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "86"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Bd3 Bxd3 5. Qxd3 Qa5+ 6. Bd2 Qa6 7. Ne2 Qxd3
+8. cxd3 e6 9. Nbc3 Nd7 10. f4 g6 11. O-O h5 12. Rab1 Nh6 13. b4 Nf5 14. Na4
+Be7 15. Rfc1 b5 16. Nb2 Rc8 17. a4 O-O 18. Rc2 Nb8 19. Rbc1 (19. axb5 cxb5
+20. Rbc1 Rxc2 21. Rxc2 Na6) 19. .. a6 20. axb5 axb5 21. Ra1 Rc7 22. Nd1 Rb7
+23. Rca2 Rc8 24. Bc3 Kg7 25. Kf2 Nd7 26. Ra7 Rcc7 27. Rxb7 Rxb7 28. Ra6 Nb6
+29. Nb2 Bd8 30. Nc1 Rb8 31. Nb3 Ra8 32. Ra5 Kf8 33. Nc5 Rxa5 34. bxa5 Na8
+35. Nd7+ Ke8 36. Nb8 b4 37. Bxb4 Nxd4 38. Na4 Bc7 39. Na6 Bd8 40. N4c5 Be7
+41. Nb7 Bxb4 42. Nxb4 Kd7 43. a6 Nb5 1/2-1/2
+

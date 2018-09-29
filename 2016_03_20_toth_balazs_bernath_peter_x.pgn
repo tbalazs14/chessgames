@@ -1,0 +1,24 @@
+[Event "Pest megyei csapatbajnokság 1/A Visegrád - Alag"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2016.03.20"]
+[Round "?"]
+[White "Tóth Balázs"]
+[Black "Bernáth Péter"]
+[Result "1/2-1/2"]
+[BlackElo "1661"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Time "10:00:00"]
+[Variation "2...Qxd5, Main Line, 6.Bc4 Bg4"]
+[WhiteElo "1951"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "37"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bc4 c6 6. Nf3 Bg4 7. h3 Bh5
+8. g4 Bg6 9. Ne5 Nbd7 10. Nxg6 hxg6 11. Qe2 e6 12. Bd2 O-O-O 13. O-O-O (13.
+Ne4 Qb6 14. Ng5 Qxb2 15. Rd1 Re8 16. Nxf7 Rh4 17. Kf1) 13. .. Qc7 14. Bg5
+Be7 15. Kb1 Nb6 16. Bb3 Nfd5 17. Nxd5 Nxd5 18. Bxe7 Nxe7 19. Qf3 1/2-1/2
+

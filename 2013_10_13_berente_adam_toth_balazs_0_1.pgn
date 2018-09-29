@@ -1,0 +1,23 @@
+[Event "Jász-Nagykun-Szolnok megyei csapatbajnokság Jászberény - Szolnok"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2013.10.13"]
+[Round "?"]
+[White "Berente Ádám"]
+[Black "Tóth Balázs"]
+[Result "0-1"]
+[BlackElo "1929"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defence"]
+[Time "09:00:00"]
+[Variation "2.d4 e5 3.dxe5"]
+[WhiteElo "1989"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "32"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. f4 Ng6 (4. .. Nc6) 5. Be3 Bb4+ 6. c3 Ba5
+7. Bc4 N8e7 8. h4 h5 9. Qb3 O-O 10. Qb5 Bb6 11. Bd2 d5 12. exd5 Nf5 13. Ne2
+(13. Kd1) 13. .. Re8 14. Kd1 Nd6 15. Qb3 Nxc4 16. Qxc4 Bg4 0-1
+

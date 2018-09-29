@@ -1,0 +1,26 @@
+[Event "Pest megyei csapatbajnokság 1/A Kóka - VIsegrád"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2013.11.03"]
+[Round "2"]
+[White "Tarnóczky József"]
+[Black "Tóth Balázs"]
+[Result "0-1"]
+[BlackElo "1929"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defence"]
+[Time "10:00:00"]
+[Variation "2.d4 e5"]
+[WhiteElo "1868"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "64"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 Nc6 2. d4 e5 3. c3 Nf6 4. d5 Ne7 5. Bd3 Ng6 6. Ne2 Bc5 7. O-O d6 8.
+Ng3 Ng4 9. Nf5 Bxf5 10. exf5 Qh4 11. h3 Nxf2 12. Rxf2 Qxf2+ 13. Kh2 Nh4 14.
+Be4 Nxf5 15. Na3 Ng3 16. Bd3 e4 17. Bb5+ Kf8 18. Bg5 a6 19. Ba4 e3 20. Qd3
+f5 21. Bh4 f4 22. Bxg3 fxg3+ 23. Kh1 e2 24. Nc2 b5 25. Bb3 Re8 26. Qf3+
+Qxf3 27. gxf3 Bf2 28. Kg2 e1=Q 29. Nxe1 Rxe1 30. Bd1 Ke7 31. f4 Rf8 32. Kf3
+g5 0-1
+

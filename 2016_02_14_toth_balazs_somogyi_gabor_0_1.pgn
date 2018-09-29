@@ -1,0 +1,26 @@
+[Event "Pest megyei csapatbajnokság 1/A Dunaharaszti - Visegrád"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2016.02.14."]
+[Round "5"]
+[White "Tóth Balázs"]
+[Black "Somogyi Gábor"]
+[Result "0-1"]
+[BlackElo "2000"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Time "10:00:00"]
+[Variation "Advance, 4.Nf3 e6 5.Be2 Nd7"]
+[WhiteElo "1959"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "60"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O Ne7 7. b3 c5 8. c4
+dxc4 9. Bxc4 Nc6 10. d5 Ncxe5 11. Nxe5 Nxe5 12. dxe6 Nxc4 13. exf7+ Kxf7
+14. bxc4 Qxd1 15. Rxd1 Be7 16. Bb2 Rhd8 17. Na3 (17. Nc3 Bf6) 17. .. Rd3
+18. Rxd3 Bxd3 19. f4 Rd8 20. Rd1 a6 21. Kf2 Bf5 22. Re1 Rd2+ 23. Re2 Rxe2+
+24. Kxe2 Bf6 25. Bxf6 Kxf6 26. h3 (26. Kd2 Be4 27. g4 Bf3 28. Nb1 Bxg4 29.
+Nc3) 26. .. h5 27. h4 Be4 28. Kf2 Kf5 29. Kg3 g6 30. Kh3 Kxf4 0-1
+

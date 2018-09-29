@@ -1,0 +1,28 @@
+[Event "NBII Tóth László csoport"]
+[Site "?"]
+[Date "2011.05.15"]
+[Round "?"]
+[White "Tóth Balázs"]
+[Black "Bálint Dániel"]
+[Result "1-0"]
+[BlackElo "1751"]
+[ECO "B53"]
+[Opening "Sicilian, Chekhover, Main Line, 10.Rhe1"]
+[Time "11:01:57"]
+[Variation "2...d6 3.d4 cxd4"]
+[WhiteElo "1830"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "61"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nc3
+Nf6 8. Bg5 e6 9. O-O-O Be7 10. Rhe1 Qc7 11. Bxf6 gxf6 12. Nd5 Bxd5 13. exd5
+e5 14. Qg4 Rc8 15. Rd2 Qd7 16. Qg7 Rf8 17. Qxh7 b5 (17. .. f5 18. Qh6 Rg8
+19. g3) 18. Kb1 a5 19. h3 b4 20. g4 a4 21. Re3 Qb5 22. Qd3 Qa5 23. a3 (23.
+Nh4 Kd7 24. Nf5) 23. .. Rc5 24. axb4 Qxb4 25. Re4 Qa5 26. Qa3 Rxd5 27. Rxa4
+Qc5 28. b4 (28. Ra8+ Bd8 (28. .. Kd7 29. Ra7+ Ke6 30. Qa2 Re8 31. Nd4+ exd4
+32. Re2#) 29. Rxd5 Qxd5 30. Qa4+ Ke7 31. Ra7+ Ke6 32. Qd7#) 28. .. Qc4 29.
+Rxd5 Qxd5 30. Ra7 Bd8 31. Qa4+ 1-0
+

@@ -1,0 +1,48 @@
+[Event "Pest megyei csapatbajnokság 1/A Visegrád - Alag"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2013.10.20"]
+[Round "?"]
+[White "Viola Gellért"]
+[Black "Tóth Balázs"]
+[Result "0-1"]
+[BlackElo "1929"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defence"]
+[Time "10:00:00"]
+[Variation "2.d4 e5 3.d5"]
+[WhiteElo "1302"]
+[TimeControl "360"]
+[Termination "normal"]
+[PlyCount "40"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nce7 4. Be2 Nf6 5. Nc3 Ng6 6. Bg5 h6 7. Bxf6 Qxf6
+8. Nf3 Bc5 9. O-O O-O 10. a3 d6 11. b4 Bb6 12. Qd2 Nf4 13. Nb1 Qg6 14. g3
+Bg4 15. Nc3 Nxe2+ 16. Qxe2 Qh5 17. Kg2 f5 18. Qd3 fxe4 19. Nxe4 Bxf3+ 20.
+Kg1 Qh3 0-1
+
+[Event "Pest megyei csapatbajnokság 1/A Visegrád - Alag"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2013.10.20"]
+[Round "1"]
+[White "Viola Gellért"]
+[Black "Tóth Balázs"]
+[Result "0-1"]
+[BlackElo "1929"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defence"]
+[Time "10:00:00"]
+[Variation "2.d4 e5 3.d5"]
+[WhiteElo "1302"]
+[TimeControl "360"]
+[Termination "normal"]
+[PlyCount "40"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nce7 4. Be2 Nf6 5. Nc3 Ng6 6. Bg5 h6 7. Bxf6 Qxf6
+8. Nf3 Bc5 9. O-O O-O 10. a3 d6 11. b4 Bb6 12. Qd2 Nf4 13. Nb1 Qg6 14. g3
+Bg4 15. Nc3 Nxe2+ 16. Qxe2 Qh5 17. Kg2 f5 18. Qd3 fxe4 19. Nxe4 Bxf3+ 20.
+Kg1 Qh3 0-1
+

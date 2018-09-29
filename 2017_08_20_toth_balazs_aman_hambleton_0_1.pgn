@@ -1,0 +1,35 @@
+[Event "Computer chess game"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2017.08.20"]
+[Round "?"]
+[White "Tóth Balázs"]
+[Black "Aman Hambleton"]
+[Result "0-1"]
+[BlackElo "2461"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Time "22:45:04"]
+[Variation "2...Qxd5 3.Nc3"]
+[WhiteElo "1967"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "116"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 c6 5. d4 Qc7 6. Nf3 Nf6 7. O-O Bg4
+8. h3 Bxf3 9. Bxf3 e6 10. Re1 Be7 11. Qe2 (11. Ne4 Nbd7) 11. .. O-O 12. Bg5
+(12. d5 cxd5 13. Nxd5 Nxd5 14. Bxd5 Bb4 15. c3 exd5 16. cxb4) 12. .. Re8
+13. Rad1 Nbd7 14. Bh4 Bd6 15. Ne4 Nxe4 16. Bxe4 Be7 17. Bg3 Bd6 18. Bxd6
+Qxd6 19. c4 Nf6 20. Bf3 Rad8 21. g3 b6 22. Kg2 (22. Qe3 c5 23. dxc5 Qxc5
+24. Qxc5 bxc5) 22. .. c5 23. dxc5 Qxc5 24. b3 (24. a3) 24. .. a5 25. Qe5
+Kf8 26. Qxc5+ bxc5 27. Bc6 Rxd1 28. Rxd1 Rc8 29. Bb5 (29. Bb7 Rb8 30. Bc6)
+29. .. Ke7 30. g4 Rd8 31. Rxd8 Kxd8 32. Kf3 (32. Bc6) 32. .. h6 33. Kf4 Ke7
+34. f3 Kd6 35. h4 Ng8 36. g5 (36. Be8 Ke7 (36. .. e5+ 37. Ke3 Ke6 38. h5
+Nf6 39. Bc6) 37. Bc6) 36. .. hxg5+ 37. hxg5 Ne7 38. Be8 f6 39. gxf6 gxf6
+40. Ke4 e5 41. f4 f5+ 42. Ke3 Ke6 43. fxe5 Kxe5 44. Bd7 (44. Bb5) 44. ..
+f4+ 45. Kf3 (45. Kd3) 45. .. Nf5 46. Be8 Nd4+ 47. Kf2 Nc2 48. Ke2 (48. Bg6
+Nb4 49. Bb1 Kd4) 48. .. Nb4 49. a3 Nc2 50. a4 (50. Kd3 f3) 50. .. Nd4+ 51.
+Kd3 Nxb3 52. Bh5 Nd4 53. Bd1 f3 54. Ke3 Nf5+ 55. Kxf3 Kd4 56. Be2 Nd6 57.
+Kf4 Nxc4 58. Kf3 Nb2 0-1
+

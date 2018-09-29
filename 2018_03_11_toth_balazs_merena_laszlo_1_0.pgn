@@ -1,0 +1,42 @@
+[Event "Jász-Nagykun-Szolnok megyei csapatbajnokság Szolnok - Újszász"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2018.03.11"]
+[Round "8"]
+[White "Tóth Balázs"]
+[Black "Merena László"]
+[Result "1-0"]
+[BlackElo "1809"]
+[ECO "C36"]
+[Opening "KGA"]
+[Time "09:00:00"]
+[Variation "Scandinavian, Modern, 5.Bb5+"]
+[WhiteElo "2001"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "77"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 e5 2. f4 d5 3. Nf3 (3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Nf3 Bc5 7.
+Qe2 Bf5 8. Nc3 Qe7 9. Be3 Nxc3 10. Bxc5 Qxe2+ 11. Bxe2 Nxe2 12. Kxe2 Na6
+13. Ba3) 3. .. exf4 4. exd5 Nf6 5. Bb5+ (5. Bc4 Nxd5 6. O-O) 5. .. Bd7 6.
+Qe2+ (6. Bxd7+ Qxd7 7. O-O Qxd5 8. d4 Nc6 9. Bxf4 O-O-O 10. c3) 6. .. Qe7
+(6. .. Be7 7. O-O Nxd5 8. Nc3 Bxb5 9. Qxb5+ c6 10. Qxb7 Qb6+ 11. Qxb6 axb6)
+7. Bc4 Qxe2+ 8. Kxe2 Bd6 9. Re1 O-O 10. Kf1 (10. Nc3 Re8+ 11. Kf1 Rxe1+ 12.
+Nxe1) 10. .. Bf5 11. Bb3 (11. Nd4 Bg6 12. Nb5 Bxc2 13. Nxd6 cxd6 14. d3)
+11. .. Nbd7 (11. .. Na6 12. d4 Nb4 13. c4 b6 14. Nc3 a6 15. a3 Nd3 16. Rd1
+Ng4 17. Kg1) 12. d4 (12. Nh4 Bg6 13. d4 Rae8 14. Rxe8 Rxe8 15. Nc3) 12. ..
+Rfe8 13. Nc3 a6 (13. .. Rxe1+ 14. Kxe1 h6 15. Bd2 g5 16. Kf2 a6 17. Re1 b5
+18. h3) 14. Bd2 h6 15. Rxe8+ Rxe8 16. Re1 Ne4 (16. .. g5 17. Rxe8+ Nxe8 18.
+Ne2 Nef6 19. c4 b6) (16. .. Rxe1+ 17. Kxe1 g5 18. Ne2 Kg7 19. c4 b6 20.
+Kd1) 17. Nxe4 Bxe4 (17. .. Rxe4 18. c4 Rxe1+ 19. Kxe1 b6) 18. c4 Bd3+ (18.
+.. b6 19. Ne5 Bf5 20. Bxf4 f6 21. Nxd7 Rxe1+ 22. Kxe1 Bxf4 23. Nb8) 19. Kf2
+Rxe1 (19. .. Ra8 20. Ne5 Bxe5 21. dxe5 a5 22. e6 fxe6 23. dxe6 Nc5 24. e7
+Re8 25. Bxa5 Be4 26. Kg1 Nxb3 27. axb3 Rxe7 28. Bxc7 g5 29. g3 fxg3 30.
+Bxg3) 20. Nxe1 Bf5 21. c5 Be7 22. Bxf4 Bd8 23. Bc2 Bxc2 24. Nxc2 Nf6 25.
+Ne3 h5 26. Kf3 Ne8 27. h3 (27. Nc4 g5 28. Bd2) 27. .. g6 28. g4 hxg4+ 29.
+hxg4 Kf8 30. b4 (30. Nc4) 30. .. Ke7 31. g5 Kd7 32. Ng4 f6 33. gxf6 Bxf6
+(33. .. Nxf6) 34. Ke4 g5 35. Be5 Be7 36. Kf5 Bd8 37. Kg6 Be7 (37. .. c6 38.
+d6 Ke6 39. Nh6 g4 40. Nxg4 Bh4 41. Ne3) 38. Kf7 Bd8 (38. .. c6 39. dxc6+
+bxc6 40. Bb8 Kd8 41. Bg3 Kd7 42. Ne5+) 39. c6+ 1-0
+

@@ -1,0 +1,39 @@
+[Event "Jász-Nagykun-Szolnok megyei"]
+[Site "?"]
+[Date "2011.03.27"]
+[Round "?"]
+[White "Tóth Balázs"]
+[Black "Visnyei Illés"]
+[Result "1-0"]
+[BlackElo "2076"]
+[ECO "C02"]
+[Opening "French"]
+[Time "08:08:56"]
+[Variation "Advance, 4.c3"]
+[WhiteElo "1830"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "81"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 a6 5. Nf3 Nc6 6. Be2 b5 7. O-O Bb7 8. Be3
+(8. Bg5 Qc7 9. a4 b4 10. cxb4 h6 11. Bd2 cxb4 12. Be3 Nge7 13. Nbd2 Nf5 14.
+Nb3 Nxe3 15. fxe3 a5 16. Nfd2) 8. .. c4 9. a3 a5 10. Nbd2 b4 11. axb4 (11.
+b3 bxc3 (11. .. bxa3 12. bxc4) 12. Nb1 Bb4 13. bxc4 (13. axb4 axb4 14. Nxc3
+bxc3 15. bxc4 dxc4 16. Bxc4)) 11. .. axb4 12. Rxa8 Qxa8 13. Ng5 h6 14. Nh3
+(14. Nxf7 Kxf7 15. Bg4 g6 16. Qf3+ Kg7 17. Bxe6 Nd8 18. Bh3 Qa6 19. Qg3 Ne7
+20. f4 Kh7 21. f5 gxf5 22. Rxf5 Bg7 23. Qh4 Ng6 24. Qh5 bxc3 25. bxc3 Bc8
+26. Rf6 Bxf6 27. Bxc8 Qxc8 28. Qxh6+ Kg8 29. Qxg6+ Bg7 30. Qe8+ Kh7 31.
+Qh5+ Kg8 32. Qe8+ Kh7 33. Qh5+ Kg8 34. Qe8+ {3-fold repetition}) 14. ..
+Nge7 15. f4 Nf5 16. Bf2 g6 17. Nf3 Be7 18. Qd2 (18. Qa1 Kd7 19. Qb1 Kc7 20.
+g4 Ng7 21. Bh4) 18. .. Kd7 19. g4 Ng7 20. Bh4 h5 21. Bxe7 Kxe7 22. Nfg5
+(22. f5 gxf5 23. g5 Kd7) 22. .. hxg4 23. Bxg4 Nf5 24. Bxf5 gxf5 25. Kf2 Rh4
+26. Rg1 Qa2 27. Rg3 Na7 28. Nf3 Rg4 29. cxb4 Nb5 30. Nhg5 Qb1 31. h3 Rxg3
+32. Kxg3 Kf8 33. Nh7+ (33. h4 Qh1 34. Nh7+ Kg7 35. Nf6 Bc6 36. h5 Na7 37.
+b5 Nxb5 38. Qb4 Nxd4 39. h6+ Qxh6 40. Qb8 Qh8 41. Qxh8+ Kxh8 42. Nxd4) 33.
+.. Kg7 34. Nf6 Qh1 35. Qf2 c3 36. Kh4 Bc6 37. bxc3 Nxc3 38. Qg3+ Kf8 39.
+Qg8+ Ke7 40. Ng5 (40. Qc8 Qg2 41. Qc7+ Kf8 42. Qd8+ Be8 43. Qxe8+ Kg7 44.
+Qg8+ Kh6 45. Qh7#) 40. .. Bd7 (40. .. Qe1+ 41. Kh5 Qd1+ 42. Kh6 Qh5+ 43.
+Kxh5 Ne4 44. Qxf7+ Kd8 45. Nxe6+ Kc8 46. Qc7#) 41. Qxf7+ 1-0
+

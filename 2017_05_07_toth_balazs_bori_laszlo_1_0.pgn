@@ -1,0 +1,29 @@
+[Event "Computer chess game"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2017.05.07"]
+[Round "10"]
+[White "Tóth Balázs"]
+[Black "Fehér Mihály"]
+[Result "1-0"]
+[BlackElo "1656"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Time "10:00:00"]
+[Variation "Pelikan-Sveshnikov, 6.Nbd5"]
+[WhiteElo "1964"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "103"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 a6 7. Nd6+
+Bxd6 8. Qxd6 Qe7 9. Qxe7+ Nxe7 10. Bg5 O-O 11. O-O-O h6 12. Bh4 Ng6 13.
+Bxf6 gxf6 14. Nd5 b5 15. Nxf6+ Kg7 16. Nxd7 Rd8 17. Nb6 Rxd1+ 18. Kxd1 Rb8
+19. Nxc8 Rxc8 20. g3 Ne7 21. Bd3 Nc6 22. Kd2 Nd4 23. c3 Ne6 24. Ke3 Kf6 25.
+Rd1 Ke7 26. Be2 Rc7 27. Rd5 f6 28. f4 exf4+ 29. gxf4 Nc5 30. Bd1 Ke6 31. b4
+Nb7 32. Bb3 Ke7 33. Kd4 Kf8 34. Rf5 Kg7 35. e5 fxe5+ 36. fxe5 a5 37. Bd5
+axb4 38. cxb4 Nd8 39. Rf2 h5 40. Rg2+ Kh6 41. Rg8 Nc6+ 42. Bxc6 Rxc6 43.
+Kd5 Rc2 44. e6 Rd2+ 45. Kc6 Re2 46. Kd7 Rd2+ 47. Ke8 Kh7 48. Rg5 Rxh2 49.
+e7 Rxa2 50. Kf7 Rf2+ 51. Ke6 Re2+ 52. Re5 1-0
+

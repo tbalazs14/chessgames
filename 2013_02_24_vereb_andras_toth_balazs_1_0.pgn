@@ -1,0 +1,23 @@
+[Event "Jász-Nagykun-Szolnok megyei csapatbajnokság Szolnok - Jászapáti"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2013.02.24"]
+[Round "6"]
+[White "Veréb András"]
+[Black "Tóth Balázs"]
+[Result "1-0"]
+[BlackElo "1982"]
+[ECO "C10"]
+[Opening "French"]
+[Time "10:00:00"]
+[Variation "3.Nc3 Nc6"]
+[WhiteElo "1925"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "32"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 Nc6 2. Nc3 e6 3. d4 d5 4. e5 Nge7 5. Nf3 Nb8 6. Bd3 c5 7. dxc5 Nec6
+8. Na4 Nd7 9. O-O Nxc5 10. Nxc5 Bxc5 11. c3 O-O 12. Bxh7+ Kxh7 13. Ng5+ Kg8
+14. Qh5 Re8 15. Qxf7+ Kh8 16. Qh5+ Kg8 1-0
+

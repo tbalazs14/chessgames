@@ -1,0 +1,38 @@
+[Event "NBII Tóth László csoport"]
+[Site "?"]
+[Date "2011.11.27"]
+[Round "?"]
+[White "Tóth Balázs"]
+[Black "Hajdú István"]
+[Result "0-1"]
+[BlackElo "2077"]
+[ECO "C82"]
+[Opening "Spanish"]
+[Time "16:46:04"]
+[Variation "Open, St. Petersburg Variation"]
+[WhiteElo "1921"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "120"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Bc5 10. Nbd2 Nxf2 11. Rxf2 O-O 12. Nf1 Bxf2+ 13. Kxf2 f6 14.
+Kg1 fxe5 15. Bg5 Qd6 16. Ne3 e4 17. Nd4 Nxd4 18. cxd4 Rf7 19. Bh4 Rc8 20.
+Bg3 Qd8 21. Qh5 c6 22. Qe5 Qf6 23. Qxf6 Rxf6 24. Rc1 Rff8 25. Rc5 Kf7 26.
+Kf2 Ke7+ 27. Ke2 Kd7 28. Kd2 Rf6 29. Kc3 g5 30. Bd1 Ra8 31. a4 Ra7 32. a5
+Ra8 33. Kb4 Rg8 34. Bg4 Rc8 35. Bxe6+ Rxe6 36. Rc2 Rg8 37. Ng4 Rc8 38. Ne5+
+Ke7 39. Rf2 c5+ 40. dxc5 d4 41. Rf7+ Kd8 42. Rd7+ Ke8 43. Rxd4 h5 44. Rxe4
+h4 45. Bf2 Rc7 46. Re3 (46. Kc3 Rc8 47. b4 Ke7 48. Bd4 Kf6 49. Nf3+ Kf5 50.
+Rxe6 Kxe6 51. Nxg5+ Kd5 52. Nf3 h3 53. g4 Ke4 54. Ng5+ Kd5 55. Kd3 Re8 56.
+Be3 Rg8 57. Ne4 Ke5 58. g5 Rd8+ 59. Nd6 Kd5 60. Bd4 Rg8 61. Bf6) 46. ..
+Rce7 47. Kc3 (47. c6 Rxe5 48. Rd3 Re2 49. Bb6 Rxb2+ 50. Kc3 Ree2 51. Rd8+
+Kf7 52. c7 Rbc2+ 53. Kb3 Rb2+ 54. Kc3 b4+ 55. Kd3 Rbd2+ 56. Kc4 Rc2+ 57.
+Kd5 b3 58. Bc5 Red2+ 59. Kc6 b2 60. Rf8+ Kg6 61. Rg8+ Kh6 (61. .. Kh7 62.
+Rh8+) 62. Rh8+ Kg6) 47. .. Rxe5 48. Kd4 Rf5 49. Rxe7+ Kxe7 50. Be3 Ke6 51.
+h3 Rf7 52. b4 (52. Bxg5 Rg7 53. Bxh4 Rxg2 54. Kc3 Kd7 55. Bf6 Rg3+ 56. Kb4
+Rxh3 57. Bg7 Rh4+) 52. .. Rg7 53. Bf2 Rd7+ 54. Ke4 Rd2 55. Kf3 Kd5 56. Be3
+Rb2 57. Bxg5 Rxb4 58. g4 hxg3 59. h4 Rb3+ 60. Be3 (60. Kg2 Rb2+ 61. Kxg3 b4
+62. h5 Rb1 63. h6 Rg1+ 64. Kf4 b3 65. h7 Rh1) 60. .. g2 0-1
+

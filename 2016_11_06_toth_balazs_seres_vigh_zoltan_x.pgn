@@ -1,0 +1,27 @@
+[Event "Jász-Nagykun-Szolnok megyei csapatbajnokság Szolnok - Törökszentmiklós"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2016.11.06."]
+[Round "2"]
+[White "Tóth Balázs"]
+[Black "Seres-Vígh Zoltán"]
+[Result "1/2-1/2"]
+[BlackElo "1706"]
+[ECO "C30"]
+[Opening "King's Gambit"]
+[Time "09:00:00"]
+[Variation "2...d6 3.Nf3 Nc6"]
+[WhiteElo "1946"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "80"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 e5 2. f4 d6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bd7 6. Nc3 a6 7. Be2 Nf6 8.
+O-O Be7 9. Be3 O-O 10. a4 Qc8 11. h3 Bxh3 12. gxh3 Qxh3 13. Bf2 Nxd4 14.
+Qxd4 Ng4 15. Bxg4 Qxg4+ 16. Kh2 Qxf4+ 17. Bg3 Qh6+ 18. Kg2 Bf6 19. Rxf6
+Qxf6 20. Qxf6 gxf6 21. Rf1 Kg7 22. Bh4 Rg8 23. Rxf6 Kf8+ 24. Kf3 Rg6 25.
+Rf5 c6 26. Nd1 Re8 27. Rh5 h6 28. Ne3 Re5 29. Rxe5 dxe5 30. Bg3 f6 31. Nf5
+b6 32. b4 Ke8 33. c4 Kd7 34. Bf2 b5 35. cxb5 cxb5 36. axb5 axb5 37. Bg3 Ke6
+38. Bf2 h5 39. Be3 Rg8 40. Bc5 Rg4 1/2-1/2
+

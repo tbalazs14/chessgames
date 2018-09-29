@@ -1,0 +1,25 @@
+[Event "Jász-Nagykun-Szolnok megyei csapatbajnokság Szolnok - Kisújszállás"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2017.02.05."]
+[Round "?"]
+[White "Balogh Dávid"]
+[Black "Tóth Balázs"]
+[Result "1-0"]
+[BlackElo "1935"]
+[ECO "A45"]
+[Opening "Trompowsky"]
+[Time "09:00:00"]
+[Variation "2...Ne4 3.Bf4 d5 4.f3 Nf6"]
+[WhiteElo "2189"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "43"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 d5 4. f3 Nf6 5. e4 dxe4 6. Nc3 exf3 7. Nxf3 e6
+8. Bd3 Be7 9. Qe2 c6 10. O-O-O Nbd7 11. Rhe1 Nd5 12. Bd2 a6 13. Ne4 b5 14.
+c3 h6 15. Ne5 Nxe5 16. dxe5 Qc7 17. Qg4 g6 (17. .. Qxe5 18. Ng3 h5 19. Qh3
+Qf6 20. Ne4 Qh4 21. Qf3 (21. Qxh4 Bxh4 22. Nd6+ Kf8 23. Rf1 f5) 21. .. a5
+22. g3 Qg4) 18. Qg3 Bb7 19. Rf1 Bf8 20. Nd6+ Bxd6 21. exd6 Qd7 22. Rxf7 1-0
+

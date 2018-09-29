@@ -1,0 +1,31 @@
+[Event "Jász-Nagykun-Szolnok megyei csapatbajnokság Szolnok - Martfû"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2017.10.15"]
+[Round "1"]
+[White "K. Szabó József"]
+[Black "Tóth Balázs"]
+[Result "0-1"]
+[BlackElo "1964"]
+[ECO "B04"]
+[Opening "Alekhine"]
+[Time "09:00:00"]
+[Variation "Modern, 4...Nc6"]
+[WhiteElo "1723"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "62"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 Nc6 2. Nf3 Nf6 3. e5 Nd5 4. d4 d6 5. exd6 cxd6 (5. .. exd6 6. c4 Nf6)
+(5. .. Qxd6 6. c4 Nf6 7. Nc3) 6. c3 g6 7. Bc4 Nb6 8. Bb3 Bg7 9. Bg5 (9. O-O
+O-O) 9. .. h6 10. Be3 O-O 11. O-O d5 12. Nbd2 Bf5 13. Re1 Na5 (13. .. e6)
+14. Bc2 Bxc2 (14. .. e6 15. Bxf5 exf5) 15. Qxc2 Nac4 (15. .. Nbc4 16. Nxc4
+Nxc4) 16. Nxc4 (16. Bf4 Nxd2 17. Nxd2 e6) 16. .. Nxc4 17. Bf4 e6 18. Ne5
+Rc8 19. Nxc4 Rxc4 20. Qd2 h5 21. g3 (21. a4 Qd7) 21. .. b5 22. a3 (22. b3
+Rc6 23. a4) 22. .. Qb6 23. Be5 a5 24. Bxg7 Kxg7 25. b4 (25. Re3 b4 26. axb4
+axb4 27. Kg2 bxc3 28. bxc3 Rfc8 29. Rf3 Qc7 30. Ra3) 25. .. Rfc8 26. Rac1
+(26. Re3 Qc7 27. bxa5 Qxa5 28. Kg2 Qc7 29. Rc1) 26. .. Qc7 27. h4 axb4 28.
+axb4 Rxc3 29. Rb1 Ra8 (29. .. Qe7 30. Re3 Rc2 31. Qe1 Qf6 32. Rd3 R8c4 33.
+Rbd1 Rb2) 30. Re3 Raa3 31. Kg2 Qc4 0-1
+

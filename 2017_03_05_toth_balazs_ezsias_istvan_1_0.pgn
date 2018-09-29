@@ -1,0 +1,28 @@
+[Event "Jász-Nagykun-Szolnok megyei csapatbajnokság Szolnok - Abony"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2017.03.05"]
+[Round "7"]
+[White "Tóth Balázs"]
+[Black "Ézsiás István"]
+[Result "1-0"]
+[BlackElo "1809"]
+[ECO "C36"]
+[Opening "KGA"]
+[Time "09:00:00"]
+[Variation "Scandinavian, 4.exd5"]
+[WhiteElo "1938"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "95"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 e5 2. f4 d5 3. Nf3 exf4 4. exd5 Bg4 5. Nc3 Be7 6. Bc4 Bh4+ 7. Kf1 Nd7
+8. d4 Qf6 9. Ne4 Qh6 10. g3 Bxg3 11. Nxg3 Ngf6 12. Qe2+ Kd8 13. h3 Bxh3+
+14. Kg1 Re8 15. Ne5 Nxe5 16. dxe5 Qh4 17. Rxh3 Qxh3 18. Bxf4 Qh4 19. Qf3 g5
+20. Bxg5 Qxg5 21. Qxf6+ Qxf6 22. exf6 Re5 23. Kf2 Kd7 24. Rh1 Rh8 25. Rh6
+Kd6 26. Kf3 Kc5 27. Bb3 b5 28. c3 a5 29. Ne4+ Kb6 30. d6 cxd6 31. Nxd6 a4
+32. Bxf7 Kc5 33. Ne4+ Kb6 34. Kf4 Rc5 35. Nxc5 Kxc5 36. Ke5 Rd8 37. Rxh7
+Rd2 38. b3 a3 39. Rh4 Kc6 40. b4 Rc2 41. Rh3 Re2+ 42. Kf5 Rf2+ 43. Kg6 Rg2+
+44. Kh7 Rf2 45. Kg7 Rg2+ 46. Kf8 Rf2 47. Ke7 Re2+ 48. Be6 1-0
+

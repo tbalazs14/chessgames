@@ -1,0 +1,23 @@
+[Event "Pest megyei csapatbajnokság 1/A Szentendre - Visegrád"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2017.02.12"]
+[Round "6"]
+[White "Tóth Balázs"]
+[Black "Túróczi Balázs"]
+[Result "1-0"]
+[BlackElo "1764"]
+[ECO "C36"]
+[Opening "KGA"]
+[Time "10:00:00"]
+[Variation "Scandinavian, Modern, 5.Bb5+"]
+[WhiteElo "1935"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "33"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ Bd7 6. Bc4 Qe7+ 7. Kf1
+Bg4 8. d4 g5 9. Nc3 Bg7 10. Qd3 Nbd7 11. Bxf4 gxf4 12. Re1 Qxe1+ 13. Kxe1
+O-O-O 14. Kf2 Nb6 15. Ne5 Bh5 16. Bb3 Kb8 17. Qf5 1-0
+

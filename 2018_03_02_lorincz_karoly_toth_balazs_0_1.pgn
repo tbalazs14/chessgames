@@ -1,0 +1,25 @@
+[Event "Pest Megyei Csapatbajnokság 1/A Vác - Visegrád"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2018.03.02"]
+[Round "9"]
+[White "Lõrincz Károly"]
+[Black "Tóth Balázs"]
+[Result "0-1"]
+[BlackElo "2001"]
+[ECO "E27"]
+[Opening "Nimzo-Indian"]
+[Time "10:00:00"]
+[Variation "Sämisch, 5...O-O"]
+[WhiteElo "1763"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "56"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. Qd3 d5 7. f3 c5 8.
+Bg5 cxd4 9. cxd4 Nc6 10. Rd1 dxc4 11. Qc3 Nd5 12. Bxd8 Nxc3 13. Rc1 Nb5 14.
+a4 Nbxd4 15. Bc7 e5 16. Rxc4 Be6 17. Rc3 Rac8 18. Bd6 Rfd8 19. Ba3 Na5 20.
+Rxc8 Rxc8 21. Kf2 Rc2 22. Bd6 Nc4 23. Bb8 Nc6 24. Bc7 Kf8 25. f4 f6 26. Nf3
+Ke7 27. Ne1 Ra2 28. Nd3 b6 0-1
+

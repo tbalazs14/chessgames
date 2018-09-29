@@ -1,0 +1,24 @@
+[Event "Computer chess game"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2010.03.14"]
+[Round "?"]
+[White "Tóth Balázs"]
+[Black "Kecze Lajos"]
+[Result "1-0"]
+[BlackElo "1542"]
+[ECO "C16"]
+[Opening "French"]
+[Time "23:08:05"]
+[Variation "Winawer, Advance Variation, 1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "57"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Nc6 5. a3 Ba5 6. Qg4 Kf8 7. Nf3 h6 8.
+Bd3 Nge7 9. b4 Bb6 10. Be3 a6 11. O-O Qe8 12. Ne2 Nf5 13. h4 g6 14. Qf4 Ke7
+15. Bd2 Qg8 16. g4 g5 17. hxg5 hxg5 18. Qxg5+ Qxg5 19. Bxg5+ Ke8 20. gxf5
+exf5 21. c3 Be6 22. Bf6 Rg8+ 23. Ng5 Kd7 24. Ra2 Ne7 25. f4 Rg6 26. Kf2 Rh6
+27. Ke3 Ng8 28. Ng3 Rxf6 29. exf6 1-0
+

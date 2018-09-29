@@ -1,0 +1,22 @@
+[Event "Jász-Nagykun-Szolnok megyei csapatbajnokság Újszász - Szolnok"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2016.09.18"]
+[Round "1"]
+[White "Kaló István"]
+[Black "Tóth Balázs"]
+[Result "1/2-1/2"]
+[BlackElo "1936"]
+[ECO "C56"]
+[Opening "Two Knights"]
+[Time "09:00:00"]
+[Variation "Classical, Moller Variation"]
+[WhiteElo "2031"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "23"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 Nc6 2. Nf3 e5 3. d4 exd4 4. Bc4 Nf6 5. O-O Nxe4 6. Re1 d5 7. Bxd5
+Qxd5 8. Nc3 Qa5 9. Rxe4+ Be6 10. Nxd4 O-O-O 11. Be3 Nxd4 12. Rxd4 1/2-1/2
+

@@ -1,0 +1,60 @@
+[Event "NBII Tóth László csoport Szolnok - Karcag"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2017.08.06"]
+[Round "?"]
+[White "Tóth Balázs"]
+[Black "Papp József"]
+[Result "0-1"]
+[BlackElo "2069"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Time "08:58:37"]
+[Variation "O'Kelly, 3.d4 cxd4 4.Nxd4 Nf6"]
+[WhiteElo "1921"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "116"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nde2 Bb4 7. Bg5 h6
+8. Bxf6 gxf6 9. Qd3 d5 10. O-O-O (10. exd5) 10. .. Bxc3 11. Nxc3 d4 12. Qg3
+Be6 13. Qg7 Ke7 14. f4 Qg8 15. Qxg8 Rxg8 16. Ne2 Bg4 17. g3 Bf3 18. Rg1
+Bxe4 19. Re1 f5 20. fxe5 Nc6 21. Nf4 Rac8 22. a3 Nxe5 23. Re2 d3 24. Rf2
+Nf3 25. Rxf3 Rxc2+ 26. Kb1 d2 27. Bd3 Rc1+ 28. Rxc1 dxc1=Q+ 29. Kxc1 Bxf3
+30. Bxf5 Rd8 31. Bc2 Rd4 32. Nh3 h5 33. Ng1 Be4 34. Bd1 Bg6 35. Nf3 Rd6 36.
+Ne5 Kf6 37. Nf3 Kf5 38. Ne1 b5 39. Bf3 Ke5 40. Bd1 Ke4 41. Ng2 Kd3 42. Bf3
+Be4 43. Nf4+ Ke3 44. Bxe4 Kxe4 45. Nxh5 Rh6 46. g4 Kf3 47. h3 Kg2 48. Nf4+
+Kg3 49. Nd3 Rc6+ 50. Kb1 Kxh3 51. Ne5 Rc7 52. g5 Kh4 53. g6 f5 54. Nf7 f4
+55. g7 Rc8 56. Ne5 (56. Nh6 f3) 56. .. Rg8 57. Kc2 Kg3 58. Kd3 Rxg7 0-1
+
+[Event "NBII Tóth László csoport Szolnok - Karcag"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2012.04.22"]
+[Round "?"]
+[White "Tóth Balázs"]
+[Black "Papp József"]
+[Result "0-1"]
+[BlackElo "2069"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Time "08:58:37"]
+[Variation "O'Kelly, 3.d4 cxd4 4.Nxd4 Nf6"]
+[WhiteElo "1921"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "116"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nde2 Bb4 7. Bg5 h6
+8. Bxf6 gxf6 9. Qd3 d5 10. O-O-O (10. exd5) 10. .. Bxc3 11. Nxc3 d4 12. Qg3
+Be6 13. Qg7 Ke7 14. f4 Qg8 15. Qxg8 Rxg8 16. Ne2 Bg4 17. g3 Bf3 18. Rg1
+Bxe4 19. Re1 f5 20. fxe5 Nc6 21. Nf4 Rac8 22. a3 Nxe5 23. Re2 d3 24. Rf2
+Nf3 25. Rxf3 Rxc2+ 26. Kb1 d2 27. Bd3 Rc1+ 28. Rxc1 dxc1=Q+ 29. Kxc1 Bxf3
+30. Bxf5 Rd8 31. Bc2 Rd4 32. Nh3 h5 33. Ng1 Be4 34. Bd1 Bg6 35. Nf3 Rd6 36.
+Ne5 Kf6 37. Nf3 Kf5 38. Ne1 b5 39. Bf3 Ke5 40. Bd1 Ke4 41. Ng2 Kd3 42. Bf3
+Be4 43. Nf4+ Ke3 44. Bxe4 Kxe4 45. Nxh5 Rh6 46. g4 Kf3 47. h3 Kg2 48. Nf4+
+Kg3 49. Nd3 Rc6+ 50. Kb1 Kxh3 51. Ne5 Rc7 52. g5 Kh4 53. g6 f5 54. Nf7 f4
+55. g7 Rc8 56. Ne5 (56. Nh6 f3) 56. .. Rg8 57. Kc2 Kg3 58. Kd3 Rxg7 0-1
+

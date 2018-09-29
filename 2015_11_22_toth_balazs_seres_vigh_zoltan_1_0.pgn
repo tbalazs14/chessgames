@@ -1,0 +1,28 @@
+[Event "Jász-Nagykun-Szolnok megyei csapatbajnokság Szolnok - Törökszentmiklós"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2015.11.22."]
+[Round "3"]
+[White "Tóth Balázs"]
+[Black "Seres Vígh Zoltán"]
+[Result "1-0"]
+[BlackElo "1714"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Time "13:59:36"]
+[Variation "Advance, 4.Nf3 e6 5.Be2"]
+[WhiteElo "1955"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "89"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 h6 6. O-O Nd7 7. b3 c5 8. c4
+Ne7 9. Nc3 a6 10. dxc5 Nxc5 11. cxd5 Nxd5 12. Nxd5 Qxd5 13. Qxd5 exd5 14.
+Rd1 Be6 15. Nd4 Be7 16. Bb2 O-O 17. f4 g6 18. Bf3 Rac8 19. Kf1 Rfd8 20. Ke2
+Kf8 21. Rac1 h5 22. Rc2 Nd7 23. Rdc1 Nb6 24. h3 Rxc2+ 25. Rxc2 Rc8 26.
+Rxc8+ Nxc8 27. g4 hxg4 28. hxg4 Bc5 29. Nc2 a5 30. Ba3 Bxa3 31. Nxa3 Na7
+32. Kd3 b6 33. Nc2 Nc6 34. a3 Ke7 35. Nd4 Nxd4 36. Kxd4 f6 37. g5 fxe5+ 38.
+fxe5 b5 39. Bxd5 Bd7 40. Kc5 a4 41. b4 Be8 42. e6 Kd8 43. Bc6 Bxc6 44. Kxc6
+Ke7 45. Kd5 1-0
+

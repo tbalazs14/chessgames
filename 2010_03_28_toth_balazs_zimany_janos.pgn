@@ -1,0 +1,55 @@
+[Event "Jász - Nagykun - Szolnok megyei"]
+[Site "?"]
+[Date "2017.06.12"]
+[Round "?"]
+[White "Tóth Balázs"]
+[Black "Zimány János"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Time "23:51:35"]
+[Variation "3...exd4 4.Nxd4"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "73"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Be7 5. Nc3 Bd7 6. Bc4 Nf6 7. f3 Nc6
+8. Be3 Nxd4 9. Qxd4 Be6 10. O-O-O O-O 11. g4 Bxc4 12. Qxc4 Nd7 13. h4 Bf6
+14. g5 Bxc3 15. Qxc3 Ne5 16. Bd4 (16. f4 Nc6 17. h5) 16. .. f6 17. f4 Nc6
+18. Qc4+ d5 19. Qxd5+ Qxd5 20. exd5 Nxd4 21. Rxd4 fxg5 22. hxg5 Rad8 23. c4
+Rd7 24. Re4 a5 25. Rhe1 Kf7 26. f5 b6 27. Kc2 Kg8 28. Re8 Kf7 29. g6+ hxg6
+30. fxg6+ Kg8 31. R1e7 Rxe7 32. Rxe7 Rf6 33. Rxc7 Rxg6 34. Rc6 Rf6 35. d6
+Kf8 36. Rc8+ Kf7 37. d7 1-0
+
+[Event "Jász - Nagykun - Szolnok megyei"]
+[Site "?"]
+[Date "2017.06.12"]
+[Round "?"]
+[White "Tóth Balázs"]
+[Black "Zimány János"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Time "23:51:35"]
+[Variation "3...exd4 4.Nxd4"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "73"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Be7 5. Nc3 Bd7 6. Bc4 Nf6 7. f3 Nc6
+8. Be3 Nxd4 9. Qxd4 Be6 10. O-O-O O-O 11. g4 Bxc4 12. Qxc4 Nd7 13. h4 Bf6
+14. g5 Bxc3 15. Qxc3 Ne5 16. Bd4 (16. f4 Nc6 17. h5) 16. .. f6 17. f4 Nc6
+18. Qc4+ (18. Qb3+ Kh8 19. Bc3 b6 20. h5) 18. .. d5 19. Qxd5+ (19. exd5
+Nxd4 20. Rxd4 Rf7 21. Re1 fxg5 22. hxg5 Qd7 23. Re6 b5 24. Qb3 Rd8) 19. ..
+Qxd5 20. exd5 Nxd4 21. Rxd4 fxg5 22. hxg5 Rad8 23. c4 Rd7 24. Re4 a5 25.
+Rhe1 Kf7 26. f5 b6 27. Kc2 Kg8 28. Re8 Kf7 29. g6+ hxg6 30. fxg6+ Kg8 31.
+R1e7 (31. R1e6 Rd8 32. Rxd8 Rxd8 33. Re7 Rc8 34. Kb3 Kf8 35. Rf7+ Ke8 36.
+Rxg7 Kf8 37. Rf7+ Kg8 38. Ka4) 31. .. Rxe7 32. Rxe7 Rf6 33. Rxc7 (33. Re8+
+Rf8 34. Rxf8+ Kxf8 35. Kb3 Ke7 36. Ka4 Kf6 37. Kb5 Kxg6 38. Kc6 Kh5 39.
+Kxc7 g5 40. d6 g4 41. d7 g3 42. d8=Q) 33. .. Rxg6 34. Rc6 Rf6 35. d6 Kf8
+36. Rc8+ Kf7 37. d7 1-0
+

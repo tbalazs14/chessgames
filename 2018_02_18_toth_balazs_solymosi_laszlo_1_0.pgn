@@ -1,0 +1,25 @@
+[Event "Pest Megyei Csapatbajnokság 1/A Visegrád - Alag"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2018.02.24"]
+[Round "8"]
+[White "Tóth Balázs"]
+[Black "Solymosi László"]
+[Result "1-0"]
+[BlackElo "1769"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Time "17:29:45"]
+[Variation "Pelikan, 7.Bg5 a6 8.Na3"]
+[WhiteElo "1996"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "59"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 h6 9. Bxf6 Qxf6 10. Nd5 Qd8 11. Nc4 b5 12. Ncb6 Rb8 13. Nxc8 Rxc8
+14. c3 Ne7 15. a4 Nxd5 16. Qxd5 Rc5 17. Qb7 Qc8 18. Qxc8+ Rxc8 19. axb5
+axb5 20. Bxb5+ Ke7 21. Kd2 Kf6 22. b4 Be7 23. Kd3 Rhd8 24. Bc4 Rc7 25. Bd5
+g5 26. Rhb1 Kg6 27. b5 f5 28. b6 Rc5 29. b7 Rxd5+ 30. exd5 1-0
+

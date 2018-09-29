@@ -1,0 +1,26 @@
+[Event "Jász-Nagykun-Szolnok Megyei sakk csapatbajnokság"]
+[Site "Szolnok - Kunszentmárton"]
+[Date "2018.01.21"]
+[Round "6"]
+[White "Tóth Balázs"]
+[Black "Samu László"]
+[Result "1-0"]
+[BlackElo "1489"]
+[ECO "C39"]
+[Opening "KGA"]
+[Time "09:00:00"]
+[Variation "3.Nf3 g5 4.h4"]
+[WhiteElo "1986"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "67"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 f6 5. Ne5 fxe5 6. Qh5+ Ke7 7. Qxg5+ Ke8
+8. Qxe5+ Qe7 9. Qxh8 Qxe4+ 10. Kd1 Qg6 11. Qe5+ Ne7 12. Qg5 Bh6 13. Qxg6+
+hxg6 14. Nc3 c6 15. Ne4 d5 16. Nd6+ Kf8 17. Nxc8 Nxc8 18. d4 Kg7 19. Bd3
+Nd7 20. Rf1 Nf6 21. Bxf4 Bxf4 22. Rxf4 Nd6 23. c3 Re8 24. Kc2 Nc4 25. Bxc4
+dxc4 26. Raf1 Re6 27. Rxf6 Rxf6 28. Rxf6 Kxf6 29. g4 Ke6 30. Kd2 a5 31. Ke3
+b5 32. Ke4 Kf7 33. Ke5 Ke7 34. h5 1-0
+

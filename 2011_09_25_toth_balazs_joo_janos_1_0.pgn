@@ -1,0 +1,31 @@
+[Event "NBII Tóth László csoport"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2011.09.25"]
+[Round "?"]
+[White "Tóth Balázs"]
+[Black "Joó János"]
+[Result "1-0"]
+[BlackElo "2038"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Time "12:33:49"]
+[Variation "Open, 2...e6, 4.Nxd4 Nf6 5.Bd3 Nc6 6.Nxc6"]
+[WhiteElo "1921"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "73"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Nxc6 bxc6 7. O-O
+Bc5 (7. .. d5 8. Nd2 a5 9. c4 a4 10. Qe2 Be7 11. Nf3) 8. e5 Nd5 9. Nd2 (9.
+Qg4 Kf8 10. Nd2 Qc7 11. Qg3 h5 12. h4 Nb4 13. Be2 d5 (13. .. Nxc2 14. Qc3)
+14. c3 Na6 15. Nf3) 9. .. Nf4 10. Ne4 Nxd3 11. Qxd3 Be7 12. Nd6+ (12. Qg3
+Kf8 13. Rd1) 12. .. Bxd6 13. Qxd6 Qe7 14. Rd1 Qxd6 15. Rxd6 f6 16. Bf4 Rg8
+17. Bg3 f5 18. h4 Rb8 19. b3 Rb5 20. c4 Rb8 21. f4 g6 22. Bf2 Rb7 23. Rad1
+h6 24. Be3 Kf7 25. Kf2 Rd8 26. Rxc6 Ke8 27. Rcd6 Rc7 28. h5 Ke7 29. hxg6
+Rg8 30. g4 fxg4 (30. .. Rxg6 31. gxf5 Rg4 32. Rh1 exf5 33. Rhxh6) 31. f5
+exf5 32. Rf6 (32. Bxh6 Rh8 33. Rh1 Rg8 34. Bg5+ Kf8 35. Rf6+ Ke8 36. Rd1
+Rh8 37. g7 Rg8 38. Bh6 Ke7 39. Rf8 Rxg7 40. Bxg7) 32. .. Rc6 33. Rdd6 Rxd6
+34. Bc5 Bb7 35. Bxd6+ Ke8 36. g7 g3+ 37. Kg1 1-0
+
