@@ -1,0 +1,30 @@
+[Event "Jász-Nagykun-Szolnok megyei csapatbajnokság"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2009.03.22"]
+[Round "9"]
+[White "Csolik Ferenc"]
+[Black "Tóth Balázs"]
+[Result "0-1"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Time "09:00:00"]
+[Variation "5.Nf3 O-O 6.h3 Nbd7"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "138"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 Nbd7 7. Be2 e5 8.
+d5 Nc5 9. Qc2 Ne8 10. Be3 f5 11. Bxc5 dxc5 12. O-O Nd6 13. Bd3 fxe4 14.
+Nxe4 Bxh3 15. Nxd6 cxd6 16. gxh3 Rxf3 17. Kg2 Qf6 18. Be4 Rf4 19. Rg1 Rf8
+20. Raf1 Qh4 21. f3 R4f6 22. Kh2 Bh6 23. Rg4 Bf4+ 24. Kg2 Qh5 25. Qf2 g5
+26. Rh1 Rh6 27. Kf1 Kh8 28. Ke2 Qe8 29. b3 b5 30. Kd3 bxc4+ 31. Kxc4 Qb8
+32. Qe1 Qb6 33. Kd3 c4+ 34. Kc3 cxb3 35. axb3 Qd4+ 36. Kc2 Rc8+ 37. Kb1
+Rc1+ 38. Qxc1 Bxc1 39. Kxc1 Qc3+ 40. Bc2 Qxf3 41. Rhg1 Rxh3 42. Rxg5 Qf8
+43. Rf5 Qh6+ 44. Kb2 Rh1 45. Rfg5 Rxg1 46. Rxg1 Qe3 47. Rh1 e4 48. Rh4 Qd4+
+49. Kb1 Qxd5 50. Rxe4 h5 51. Re8+ Kg7 52. Re7+ Kf6 53. Rxa7 h4 54. Rh7 Qh1+
+55. Kb2 h3 56. Rh6+ Ke7 57. Rh4 h2 58. Be4 Qe1 59. Rh7+ Kf6 60. Bb7 Kg6 61.
+Rh3 Qd2+ 62. Ka3 d5 63. b4 Qg2 64. Rxh2 Qxh2 65. Bxd5 Qd6 66. Bc4 Kf6 67.
+Ka4 Qb6 68. Bb5 Ke5 69. Bc4 Kd4 0-1
+

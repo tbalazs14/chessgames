@@ -1,0 +1,25 @@
+[Event "Tiszavirág Open Szeged"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2009.10.09"]
+[Round "1"]
+[White "Tóth Balázs"]
+[Black "Laza Szabolcs"]
+[Result "0-1"]
+[BlackElo "1763"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Time "10:00:00"]
+[Variation "Wing Gambit, Marshall Variation, 1.e4 c5 2.b4 cxb4 3.a3"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "68"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 c5 2. b4 cxb4 3. a3 e6 4. axb4 Bxb4 5. c3 Be7 6. d4 d5 7. e5 f6 8. f4
+Nc6 9. Nf3 Nh6 10. Bd3 Nf7 11. Ba3 fxe5 12. fxe5 O-O 13. Qc2 Bxa3 14. Bxh7+
+Kh8 15. Nxa3 Ng5 16. Nxg5 Qxg5 17. Bd3 Bd7 18. Qe2 Na5 19. Rf1 Rxf1+ 20.
+Kxf1 Nb3 21. Rd1 Rf8+ 22. Kg1 Be8 23. Bc2 Bh5 24. Qd3 Kg8 25. Bxb3 Bxd1 26.
+Bxd1 Qf4 27. g3 Qf2+ 28. Kh1 Qf1+ 29. Qxf1 Rxf1+ 30. Kg2 Rxd1 31. Nb5 a5
+32. Kh3 a4 33. Kg4 Rb1 34. Na3 Rb3 0-1
+

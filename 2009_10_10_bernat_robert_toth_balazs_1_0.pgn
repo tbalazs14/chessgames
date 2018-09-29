@@ -1,0 +1,23 @@
+[Event "Tiszavirág Open Szeged"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2009.10.10"]
+[Round "?"]
+[White "Bernát Róbert"]
+[Black "Tóth Balázs"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Time "10:00:00"]
+[Variation "4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Bc4"]
+[WhiteElo "2141"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "47"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 Nc6 2. d4 e5 3. Nf3 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 Qg6
+8. O-O Qxe4 9. Bxf7+ Kxf7 10. Qh5+ Ng6 11. Qxc5 d6 12. Qg5 h6 13. Qg3 Nce5
+14. Nd2 Qd5 15. c4 Qa5 16. h3 h5 17. f4 Nd3 18. f5 Nge5 19. Ne4 h4 20. Qg5
+Qa4 21. Ne6 Bxe6 22. fxe6+ Kxe6 23. Qxg7 Nd7 24. Ng5# 1-0
+

@@ -1,0 +1,23 @@
+[Event "Jász-Nagykun-Szolnok megyei csapatbajnokság"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2009.11.15"]
+[Round "3"]
+[White "Tóth Balázs"]
+[Black "Kókai István"]
+[Result "1-0"]
+[BlackElo "1647"]
+[ECO "C34"]
+[Opening "KGA"]
+[Time "09:00:00"]
+[Variation "Fischer, 4.d4"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "45"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 Bd7 5. Bxf4 Be7 6. Bc4 Nf6 7. Nc3 h6 8.
+O-O Bg4 9. h3 Bh5 10. Qe1 Bg6 11. Rd1 Nh7 12. e5 O-O 13. Qg3 Kh8 14. Nd5
+Bg5 15. exd6 Bxf4 16. Nxf4 Qxd6 17. Ne5 Ng5 18. Nfxg6+ Kh7 19. Nxf8+ Qxf8
+20. Nxf7 Qe7 21. Rde1 Qd7 22. Nxg5+ hxg5 23. Qd3+ 1-0
+

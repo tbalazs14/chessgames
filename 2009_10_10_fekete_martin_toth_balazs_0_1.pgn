@@ -1,0 +1,64 @@
+[Event "Tiszavirág Open Szeged"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2018.09.29"]
+[Round "3"]
+[White "Fekete Martin"]
+[Black "Tóth Balázs"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defence"]
+[Time "10:00:00"]
+[Variation "2.d4 e5 3.d5"]
+[WhiteElo "1740"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "132"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 Nc6 2. d4 {(d2-d4 d7-d5 e4-e5 Bc8-f5 Ng1-f3 e7-e6 c2-c3 f7-f6 Bf1-d3
+Bf5xd3 Qd1xd3 f6xe5 Nf3xe5 Nc6xe5 d4xe5 Ng8-e7 O-O Qd8-d7 Nb1-d2 Ne7-g6
+Nd2-f3 c7-c5) +0.77/18 0} e5 3. d5 Nce7 4. Nf3 Ng6 5. Bg5 Nf6 6. Nc3 Bc5 7.
+Bc4 d6 8. h3 a6 9. a4 h6 10. Bh4 Nxh4 11. Nxh4 Nxe4 12. Nxe4 Qxh4 13. Qf3
+Bb6 14. g3 Qe7 15. a5 Ba7 16. g4 O-O 17. Ng3 Re8 18. Bd3 Qg5 19. Qe4 g6 20.
+Ne2 Kf8 21. h4 Qxg4 22. Qxg4 Bxg4 23. Rg1 h5 24. Ng3 e4 25. Bc4 e3 26. fxe3
+Bxe3 27. Rf1 Bg5+ 28. Kf2 Bxh4 29. Kg2 Re3 30. Nh1 Bh3+ 31. Kg1 Bxf1 32.
+Rxf1 Rae8 33. Kg2 R8e4 34. Bd3 Rg4+ 35. Kh2 Bg3+ 36. Kg2 Be5+ 37. Kf2 Bd4
+38. Be2 Rf4+ 39. Ke1 Rxf1+ 40. Kxf1 Bxb2 41. Kf2 Bd4 42. Ke1 h4 43. Nf2 h3
+44. Ng4 Rg3 45. Nh2 Rg2 46. Nf3 h2 47. Nxh2 Rxh2 48. Kf1 Rf2+ 49. Ke1 g5
+50. c3 Be3 51. Bg4 f5 52. Be2 g4 53. Bf1 g3 54. Bh3 g2 55. Bxg2 Rxg2 56.
+Kf1 Rf2+ 57. Kg1 f4 58. c4 f3 59. c5 Rg2+ 60. Kh1 Rg1+ 61. Kh2 Bxc5 62. Kh3
+f2 63. Kh2 Kg7 64. Kh3 f1=Q+ 65. Kh4 Qf4+ 66. Kh3 Qg3# 0-1
+
+[Event "Tiszavirág Open Szeged"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2009.10.10"]
+[Round "3"]
+[White "Fekete Martin"]
+[Black "Tóth Balázs"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defence"]
+[Time "10:00:00"]
+[Variation "2.d4 e5 3.d5"]
+[WhiteElo "1740"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "132"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 Nc6 2. d4 {(d2-d4 d7-d5 e4-e5 Bc8-f5 Ng1-f3 e7-e6 c2-c3 f7-f6 Bf1-d3
+Bf5xd3 Qd1xd3 f6xe5 Nf3xe5 Nc6xe5 d4xe5 Ng8-e7 O-O Qd8-d7 Nb1-d2 Ne7-g6
+Nd2-f3 c7-c5) +0.77/18 0} e5 3. d5 Nce7 4. Nf3 Ng6 5. Bg5 Nf6 6. Nc3 Bc5 7.
+Bc4 d6 8. h3 a6 9. a4 h6 10. Bh4 Nxh4 11. Nxh4 Nxe4 12. Nxe4 Qxh4 13. Qf3
+Bb6 14. g3 Qe7 15. a5 Ba7 16. g4 O-O 17. Ng3 Re8 18. Bd3 Qg5 19. Qe4 g6 20.
+Ne2 Kf8 21. h4 Qxg4 22. Qxg4 Bxg4 23. Rg1 h5 24. Ng3 e4 25. Bc4 e3 26. fxe3
+Bxe3 27. Rf1 Bg5+ 28. Kf2 Bxh4 29. Kg2 Re3 30. Nh1 Bh3+ 31. Kg1 Bxf1 32.
+Rxf1 Rae8 33. Kg2 R8e4 34. Bd3 Rg4+ 35. Kh2 Bg3+ 36. Kg2 Be5+ 37. Kf2 Bd4
+38. Be2 Rf4+ 39. Ke1 Rxf1+ 40. Kxf1 Bxb2 41. Kf2 Bd4 42. Ke1 h4 43. Nf2 h3
+44. Ng4 Rg3 45. Nh2 Rg2 46. Nf3 h2 47. Nxh2 Rxh2 48. Kf1 Rf2+ 49. Ke1 g5
+50. c3 Be3 51. Bg4 f5 52. Be2 g4 53. Bf1 g3 54. Bh3 g2 55. Bxg2 Rxg2 56.
+Kf1 Rf2+ 57. Kg1 f4 58. c4 f3 59. c5 Rg2+ 60. Kh1 Rg1+ 61. Kh2 Bxc5 62. Kh3
+f2 63. Kh2 Kg7 64. Kh3 f1=Q+ 65. Kh4 Qf4+ 66. Kh3 Qg3# 0-1
+

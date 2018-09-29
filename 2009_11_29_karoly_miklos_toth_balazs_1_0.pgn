@@ -1,0 +1,23 @@
+[Event "Jász-Nagykun-Szolnok megyei csapatbajnokság"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2009.11.29"]
+[Round "4"]
+[White "Károly Miklós"]
+[Black "Tóth Balázs"]
+[Result "1-0"]
+[ECO "A50"]
+[Opening "Indian"]
+[Time "09:00:00"]
+[Variation "Black Knights' Tango (Mexican Defence-Kevitz-Trajkovich Defence)"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "49"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. d4 Nf6 2. c4 Nc6 3. d5 Ne5 4. e4 Ng6 5. Nc3 e5 6. dxe6 fxe6 7. Nf3 Bc5
+8. Bg5 h6 9. Nh4 Nxh4 10. Bxh4 d6 11. Be2 O-O 12. f4 Qe8 13. Bxf6 Rxf6 14.
+Bh5 g6 15. Bf3 Rxf4 16. Qd2 Qf7 17. Ne2 Rxf3 18. gxf3 Qxf3 19. Rf1 Qxe4 20.
+Qxh6 Bb4+ 21. Kd1 Qd3+ (21. .. Bd7) 22. Kc1 Bd7 23. Rf6 d5 24. Rxg6+ Kf7
+25. Qh7+ 1-0
+

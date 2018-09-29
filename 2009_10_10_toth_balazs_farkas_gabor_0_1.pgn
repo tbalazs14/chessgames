@@ -1,0 +1,23 @@
+[Event "Tiszavirág Open Szeged"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2009.10.10"]
+[Round "6"]
+[White "Tóth Balázs"]
+[Black "Farkas Gábor"]
+[Result "0-1"]
+[BlackElo "1988"]
+[ECO "A85"]
+[Opening "Dutch"]
+[Time "10:00:00"]
+[Variation "2.c4 Nf6 3.Nc3 g6"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "38"]
+[WhiteType "program"]
+[BlackType "human"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 g6 4. Bf4 Bg7 5. e3 O-O 6. Nf3 d6 7. Qb3 h6 8.
+c5+ Kh7 9. cxd6 exd6 10. h4 Nh5 11. Bh2 f4 12. Be2 fxe3 13. fxe3 Nc6 14.
+Ne4 Qe7 15. g4 Qxe4 16. gxh5 Be6 17. hxg6+ Kg8 18. Qd1 Qxe3 19. Rf1 Nxd4
+0-1
+
