@@ -1,0 +1,28 @@
+[Event "Biatorbágy - Visegrád"]
+[Site "DESKTOP-AAILRMT"]
+[Date "2018.12.02"]
+[Round "5"]
+[White "Tóth Balázs"]
+[Black "Fekete András"]
+[Result "1-0"]
+[BlackElo "1909"]
+[ECO "B06"]
+[Opening "Modern"]
+[Time "10:00:00"]
+[Variation "3.Nc3"]
+[WhiteElo "2024"]
+[TimeControl "300"]
+[Termination "time forfeit"]
+[PlyCount "43"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 e5 4. Be3 (4. dxe5 Bxe5 5. Nf3 Bxc3+ 6. bxc3 Qe7
+7. Bg5 Qxe4+ 8. Be2 f6 9. Bd2 Nc6 10. O-O Qd5 11. Nd4 Nge7 12. Nb5 Kd8 13.
+c4 Qf7) 4. .. d6 5. Nf3 Nc6 6. h3 exd4 7. Nxd4 Nge7 8. Bc4 O-O 9. a4 Nxd4
+10. Bxd4 Bxd4 11. Qxd4 Nc6 12. Qe3 Be6 13. Be2 a6 14. g4 Nb4 15. O-O-O Re8
+16. h4 Nc6 17. g5 Qe7 18. h5 Kg7 19. Rh4 (19. f4 Rh8 20. Nd5 Bxd5 21. Qc3+
+Kg8 22. exd5 Nb4 23. Bc4 Qe4 24. Rde1 Qxc2+ 25. Qxc2 Nxc2 26. Kxc2 gxh5)
+19. .. Rh8 20. Rdh1 (20. h6+ Kf8 21. Qd2 Rd8 22. Kb1 Rg8 23. f4) 20. .. h6
+21. f4 hxg5 22. fxg5 1-0
+
