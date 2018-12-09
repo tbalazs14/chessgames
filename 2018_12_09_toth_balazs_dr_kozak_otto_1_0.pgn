@@ -1,0 +1,28 @@
+[Event "Szolnok - Karcag"]
+[Site "DESKTOP-PR51G2B"]
+[Date "2018.12.09"]
+[Round "?"]
+[White "Tóth Balázs"]
+[Black "dr. Kozák Ottó"]
+[Result "1-0"]
+[BlackElo "1731"]
+[ECO "B44"]
+[Opening "Sicilian"]
+[Time "09:00:00"]
+[Variation "Taimanov, 5.c4"]
+[WhiteElo "2024"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "41"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. c4 Nxd4 6. Qxd4 Qc7 7. Be3 Ne7
+8. Nc3 a6 9. Be2 Nc6 10. Qd2 Be7 11. O-O O-O 12. f4 d6 13. Kh1 Bd7 14. Rad1
+Nb8 15. f5 Bc6 16. f6 gxf6 17. Bh6 (17. Nd5 exd5 (17. .. Bxd5 18. cxd5 Nd7
+19. dxe6 fxe6 20. Rc1 Qd8 21. Bg4 f5 22. exf5 Ne5 23. Bh3) 18. exd5 Bd7 19.
+Bd4) 17. .. Rd8 (17. .. Nd7 18. Nd5 Bxd5 19. cxd5 Ne5 20. Bxf8 Rxf8 21. Rc1
+Qd7 22. Rc3 Kh8 23. Rfc1 Bd8 24. Rg3 Rg8 25. dxe6 fxe6 26. Rxg8+ Kxg8 27.
+Qh6 Qe7 28. Qe3 Qd7 29. Bd1 a5 30. a4 Ng6 31. Bb3 Kg7 32. Rd1 Nf8 33. Rd3
+Ng6 34. Qd2 Bc7) 18. Rf3 Kh8 19. Rg3 Rg8 20. Rxg8+ Kxg8 21. Qf4 1-0
+
