@@ -1,0 +1,48 @@
+[Event "Computer chess game"]
+[Site "DESKTOP-7IOCA72"]
+[Date "2018.10.07"]
+[Round "?"]
+[White "Balázs"]
+[Black "Balázs"]
+[Result "*"]
+[BlackElo "2400"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky-Orangutan) Opening"]
+[Time "13:37:25"]
+[Variation "Golombek Variation, 1...d5 2.Bb2 Nf6 3.e3"]
+[WhiteElo "2400"]
+[TimeControl "1800"]
+[Termination "unterminated"]
+[PlyCount "41"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. b4 Nf6 2. Bb2 d5 3. e3 Bf5 4. c4 e6 5. a3 Be7 6. Nc3 O-O 7. Nf3 h6 8. d4
+c6 9. c5 Nbd7 10. Bd3 Re8 11. O-O Bf8 12. Ne2 Bxd3 13. Qxd3 Ne4 14. Nd2 f5
+15. h3 Ndf6 16. f3 Nxd2 17. Qxd2 g5 18. Nc3 Bg7 19. Rae1 Qc7 20. e4 Qg3 21.
+e5 *
+
+[Event "Visegrád - Veresegyház"]
+[Site "DESKTOP-7IOCA72"]
+[Date "2018.10.07"]
+[Round "2"]
+[White "Babér Balázs"]
+[Black "Tóth Balázs"]
+[Result "1/2-1/2"]
+[BlackElo "2019"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky-Orangutan) Opening"]
+[Time "10:00:00"]
+[Variation "Golombek Variation, 1...d5 2.Bb2 Nf6 3.e3"]
+[WhiteElo "1983"]
+[TimeControl "1800"]
+[Termination "normal"]
+[PlyCount "41"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. b4 Nf6 2. Bb2 d5 3. e3 Bf5 4. c4 e6 5. a3 Be7 6. Nc3 O-O 7. Nf3 h6 8. d4
+c6 9. c5 Nbd7 10. Bd3 Re8 11. O-O Bf8 12. Ne2 Bxd3 13. Qxd3 Ne4 14. Nd2 f5
+15. h3 Ndf6 16. f3 Nxd2 17. Qxd2 g5 18. Nc3 Bg7 19. Rae1 Qc7 20. e4 Qg3 21.
+e5 1/2-1/2
+
