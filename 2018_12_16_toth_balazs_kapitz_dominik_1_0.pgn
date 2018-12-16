@@ -1,0 +1,33 @@
+[Event "Aszód - Visegrád"]
+[Site "DESKTOP-AAILRMT"]
+[Date "2018.12.16"]
+[Round "3"]
+[White "Tóth Balázs"]
+[Black "Kapitz Dominik"]
+[Result "1-0"]
+[BlackElo "1918"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Time "10:00:00"]
+[Variation "Marshall, 4.Nf3 g6 5.Be2 Bg7"]
+[WhiteElo "2024"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "58"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 g6 5. Be2 Bg7 6. O-O O-O 7. c4 Nb6
+8. Nc3 Nc6 9. d5 Ne5 10. Nxe5 Bxe5 11. Bh6 (11. Be3 e6 12. Bd4 Bxd4 13.
+Qxd4 exd5 14. cxd5 c6 15. d6 Be6 16. Rad1) 11. .. Re8 12. f4 Bf6 13. Ne4
+(13. Bg5 Bg7 14. Qd2 c6 15. Rad1 Bd7) 13. .. Bxb2 14. Rb1 Bh8 15. f5 (15.
+Rb3) (15. g4) 15. .. Bxf5 16. Rxf5 gxf5 17. Bh5 e6 18. Rb3 Be5 19. Bxf7+
+Kxf7 20. Qh5+ Kg8 21. Bg5 fxe4 (21. .. Re7 22. Nf6+ Bxf6 23. Bxf6 f4 24.
+Qg5+ Kf8 25. Qxf4 Ke8 26. Bxe7 Qxe7 27. Re3 Qc5 28. dxe6 Ke7 29. Qf7+ Kd6
+30. Qf4+ Ke7 31. Qf7+) 22. Bxd8 Bd4+ 23. Kh1 Raxd8 24. Rh3 Re7 (24. .. Kf8
+25. Qg4 Re7 26. dxe6 Nxc4 27. Rxh7 Bf6 (27. .. Rxh7 28. Qf5+ Ke7 (28. ..
+Kg7) (28. .. Kg8 29. Qg5+ Bg7 30. Qxd8+ Bf8 31. Qd5 Nb6 32. Qxb7 Na4 33.
+Qxe4 Nc5) 29. Qxh7+ Kd6 30. e7 Re8 31. Qg6+ Kxe7 32. Qxe4+ Kf8 33. Qf5+ Ke7
+34. Qe4+ Kf8 35. Qf5+)) 25. Qg5+ Kf8 26. Rxh7 Rxh7 (26. .. Rdd7 27. Qh6+
+Ke8 28. Qg6+ Kf8 29. Qh6+ Ke8) 27. Qxd8+ Kg7 28. dxe6 Bf6 29. e7 Rh8 1-0
+
