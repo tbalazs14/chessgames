@@ -1,0 +1,33 @@
+[Event "Visegrád - Alag"]
+[Site "Pest megyei csapatbajnokság 1/A"]
+[Date "2019.03.10"]
+[Round "9"]
+[White "Bernath Peter"]
+[Black "Toth Balazs"]
+[Result "0-1"]
+[BlackElo "2053"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[Time "17:41:21"]
+[Variation "4.O-O Nf6 5.Nc3"]
+[WhiteElo "1726"]
+[TimeControl "300"]
+[Termination "normal"]
+[PlyCount "62"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bc4 Bc5 4. O-O Nf6 5. Nc3 O-O 6. h3 d6 7. d3 h6 8.
+a3 a6 9. Ne2 Be6 10. Bxe6 fxe6 11. b4 Ba7 12. c3 Nh5 13. Qc2 Rxf3 14. gxf3
+Qf6 (14. .. Qh4 15. Kg2 (15. Kh2 Rf8 16. Be3 Rxf3 17. Ng1 Rf6 18. Qe2 Bxe3
+19. Qxe3 (19. fxe3 Qg3+ 20. Kh1 Qg5 21. Qg4 Qxg4 22. hxg4 Ng3+ 23. Kg2 Nxf1
+24. Rxf1 Rxf1 25. Kxf1)) 15. .. Rf8 16. Be3 Bb6 17. Kh2 Rxf3 18. Ng1 Rf8
+19. Rad1 Nf4 20. Bxf4 Qxf4+ 21. Kh1 Qh4 22. f3 Bxg1 23. Kxg1 Qxh3) 15. Kg2
+(15. Kh2 Ne7 16. Be3 Ng6) 15. .. Rf8 16. Ng1 (16. Kh2 Qxf3 17. Ng1 Qf6) 16.
+.. Ne7 17. Re1 (17. f4 Qh4 18. Nf3 Nxf4+ 19. Bxf4 Qxf4 20. Qe2 Ng6) 17. ..
+Ng6 18. Kf1 Nhf4 19. Bxf4 (19. Qa2 Nxd3 (19. .. Qg5 20. Qxe6+ Nxe6 21. Bxg5
+Nxg5) 20. Be3 Ngf4 21. Ne2 Nxh3 22. Ng1 Nxg1 23. Kxg1 Qg6+ 24. Kf1 Bxe3 25.
+Rxe3 Nf4 26. Re2 Qg2+ 27. Ke1 Qxf3) 19. .. Nxf4 20. Red1 Qg5 21. Ke1 Qxg1+
+22. Kd2 Qxf2+ 23. Kc1 Qxf3 24. Kb2 Nxh3 25. Rd2 Be3 26. Rg2 g5 27. Kb3 g4
+28. Rh1 h5 29. Rgh2 Qg3 30. Rg2 Qf3 31. Rgh2 Nf4 0-1
+
